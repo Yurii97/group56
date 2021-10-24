@@ -1,2 +1,4 @@
-import './js/clock';
+
+// import './js/clock';
 import './sass/main.scss';
+import './js/weather';
