@@ -1,5 +1,5 @@
 
-import { format, compareAsc } from 'date-fns'
+import { format} from 'date-fns'
 
 const dataDay = document.querySelector('.date__day')
 const mounth = document.querySelector('.date__month')
