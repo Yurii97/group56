@@ -556,4 +556,4 @@ var t=arguments[3];!function(t){"use strict";var n,i,e,a;e=t.requestAnimationFra
 },{"date-fns":"mo7Y"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/weather"),require("./js/cloc-data");
 },{"./sass/main.scss":"clu1","./js/weather":"AZzu","./js/cloc-data":"gS58"}]},{},["Focm"], null)
-//# sourceMappingURL=/group56/src.cde92951.js.map
+//# sourceMappingURL=/group56/src.611501ab.js.map
