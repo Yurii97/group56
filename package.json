@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.16.1",
+    "date-fns": "^2.25.0",
+    "flatpickr": "^4.6.9",
     "lodash.throttle": "^4.1.1"
   }
 }
