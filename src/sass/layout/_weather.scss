@@ -25,6 +25,7 @@
   justify-content: space-around;
   align-items: center;
 }
+
 .temperature {
   flex-direction: column;
 }
@@ -43,20 +44,22 @@
   font-size: 40px;
 }
 .date {
+  padding: 50px 100px 100px 50px;
   position: absolute;
   left: 0;
   bottom: 0;
-  width: 490px;
-  height: 277px;
-  padding-top: 36px;
   border-radius: 35px;
   background-color: rgba(16, 33, 54, 0.59);
   // margin: 0 auto;
   color: #fff;
   font-family: Lato;
   font-weight: 400;
-  padding-top: 26 px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
 }
+
 .date__day {
   text-align: center;
   font-size: 45px;
@@ -66,12 +69,13 @@
   font-weight: 300;
 }
 
+.date__month-time {
+  display: flex;
+}
+
 .date__month {
-  // width: 130px;
   text-align: right;
-  margin-right: 10px;
 }
 .date__time {
-  // width: 130px;
   margin-left: 10px;
 }
